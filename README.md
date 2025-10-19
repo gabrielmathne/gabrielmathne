@@ -1,6 +1,4 @@
-<!-- Banner ou avatar opcional -->
-<p align="center">
-  <img src="https://github.com/seu-usuario/seu-usuario/blob/main/banner.png" alt="Banner - Gabriel Mathne" width="100%">
+
 </p>
 
 <h1 align="center">👋 Olá, eu sou o Gabriel Mathne!</h1>
